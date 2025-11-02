@@ -1,9 +1,0 @@
-{
-  "name": "maximaxmultiservices",
-  "private": true,
-  "type": "module",
-  "version": "1.0.1",
-  "description": "Static site with serverless SMS endpoint for MAXIMAX Multi Services",
-  "dependencies": { "twilio": "^4.22.0" },
-  "engines": { "node": ">=18" }
-}
