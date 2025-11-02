@@ -1,8 +1,0 @@
-export default function Home() {
-  return (
-    <div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100vh",background:"#000",color:"#FFA500",flexDirection:"column"}}>
-      <h1>MAXIMAX Multi Services</h1>
-      <p>Immigration • Taxes • Translations</p>
-    </div>
-  );
-}
